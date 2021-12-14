@@ -1,0 +1,894 @@
+223
+
+idle1
+data/mgm1.png
+890 85 970 180
+
+idle2
+data/mgm1.png
+976 85 1056 180
+
+idle3
+data/mgm1.png
+1062 85 1142 180
+
+idleshoot1
+data/mgm1.png
+1250 85 1340 180
+
+run1
+data/mgm1.png
+295 200 390 290
+
+run2
+data/mgm1.png
+395 200 483 290
+
+run3
+data/mgm1.png
+490 200 573 290
+
+run4
+data/mgm1.png
+580 200 667 290
+
+run5
+data/mgm1.png
+674 200 759 290
+
+run6
+data/mgm1.png
+766 200 853 290
+
+run7
+data/mgm1.png
+860 200 945 290
+
+runshoot1
+data/mgm1.png
+282 310 390 405
+
+runshoot2
+data/mgm1.png
+396 310 499 405
+
+runshoot3
+data/mgm1.png
+506 310 600 405
+
+runshoot4
+data/mgm1.png
+607 310 701 405
+
+runshoot5
+data/mgm1.png
+708 310 808 405
+
+runshoot6
+data/mgm1.png
+817 310 920 405
+
+jump1
+data/mgm1.png
+450 450 535 560
+
+jump2
+data/mgm1.png
+540 450 620 560
+
+jump3
+data/mgm1.png
+625 450 703 560
+
+jump4
+data/mgm1.png
+705 450 785 560
+
+jump5
+data/mgm1.png
+788 450 868 560
+
+jump6
+data/mgm1.png
+875 420 950 560
+
+jump7
+data/mgm1.png
+959 420 1029 560
+
+jumpshoot1
+data/mgm1.png
+380 605 480 710
+
+jumpshoot2
+data/mgm1.png
+488 605 580 710
+
+jumpshoot3
+data/mgm1.png
+586 605 675 710
+
+jumpshoot4
+data/mgm1.png
+682 605 765 710
+
+jumpshoot5
+data/mgm1.png
+770 605 865 710
+
+jumpshoot6
+data/mgm1.png
+863 575 963 710
+
+jumpshoot7
+data/mgm1.png
+970 575 1060 710
+
+bird1
+data/mgm1.png
+808 740 911 815
+
+bird2
+data/mgm1.png
+918 740 1021 815
+
+birdshoot1
+data/mgm1.png
+803 845 927 920
+
+birdshoot2
+data/mgm1.png
+933 845 1057 920
+
+idlechem1
+data/mgm1.png
+695 1265 800 1405
+
+idlechem2
+data/mgm1.png
+809 1265 908 1405
+
+idlechem3
+data/mgm1.png
+915 1265 1045 1405
+
+idlechem4
+data/mgm1.png
+1053 1265 1225 1405
+
+idlechem5
+data/mgm1.png
+738 1430 862 1550
+
+jumpchem1
+data/mgm1.png
+700 1635 790 1785
+
+jumpchem2
+data/mgm1.png
+800 1635 890 1785
+
+jumpchem3
+data/mgm1.png
+890 1635 1025 1785
+
+jumpchem4
+data/mgm1.png
+1033 1635 1195 1785
+
+jumpchem5
+data/mgm1.png
+741 1815 852 1956
+
+hurting1
+data/mgm1.png
+465 2324 540 2425
+
+hurting2
+data/mgm1.png
+550 2324 645 2425
+
+bullet1.1
+data/mgm1.png
+480 2270 505 2305
+
+bullet1.2
+data/mgm1.png
+505 2270 545 2305
+
+bullet1.3
+data/mgm1.png
+545 2270 585 2305
+
+bullet1.4
+data/mgm1.png
+585 2270 630 2305
+
+bullet1.5
+data/mgm1.png
+675 2270 680 2305
+
+enemy1.1
+data/enemy6.png
+185 190 235 230
+
+enemy1.2
+data/enemy6.png
+235 190 285 230
+
+enemy1.3
+data/enemy6.png
+285 190 335 230
+
+enemy1.4
+data/enemy6.png
+335 190 385 230
+
+enemy1.5
+data/enemy6.png
+385 190 435 230
+
+enemy2.1
+data/enemy6.png
+195 240 340 340
+
+enemy2.2
+data/enemy6.png
+338 240 483 340
+
+enemy2.3
+data/enemy6.png
+488 240 633 340
+
+explosion1.1
+data/enemy6.png
+380 2280 430 2330
+
+explosion1.2
+data/enemy6.png
+270 2280 320 2330
+
+explosion1.3
+data/enemy6.png
+155 2280 205 2330
+
+explosion1.4
+data/enemy6.png
+90 2280 145 2330
+
+explosion1.5
+data/enemy6.png
+25 2280 85 2330
+
+explosion1.6
+data/enemy6.png
+430 2215 495 2265
+
+explosion1.7
+data/enemy6.png
+285 2215 345 2265
+
+explosion1.8
+data/enemy6.png
+215 2215 275 2265
+
+explosion1.9
+data/enemy6.png
+90 2215 145 2265
+
+explosion1.10
+data/enemy6.png
+25 2215 85 2265
+
+explosion2.1
+data/enemy6.png
+375 2145 430 2190
+
+explosion2.2
+data/enemy6.png
+265 2145 320 2190
+
+explosion2.3
+data/enemy6.png
+150 2145 205 2190
+
+explosion2.4
+data/enemy6.png
+85 2145 145 2190
+
+explosion2.5
+data/enemy6.png
+20 2145 85 2190
+
+explosion2.6
+data/enemy6.png
+580 2080 645 2130
+
+explosion2.7
+data/enemy6.png
+433 2080 496 2130
+
+explosion2.8
+data/enemy6.png
+365 2080 425 2130
+
+explosion2.9
+data/enemy6.png
+237 2080 294 2130
+
+explosion2.10
+data/enemy6.png
+175 2080 230 2130
+
+explosion3.1
+data/enemy6.png
+60 1840 110 1940
+
+explosion3.2
+data/enemy6.png
+105 1840 170 1940
+
+explosion3.3
+data/enemy6.png
+175 1840 240 1940
+
+explosion3.4
+data/enemy6.png
+255 1840 325 1940
+
+explosion3.5
+data/enemy6.png
+335 1840 405 1940
+
+explosion3.6
+data/enemy6.png
+420 1840 490 1940
+
+explosion3.7
+data/enemy6.png
+500 1840 570 1940
+
+
+bullet_enemy1.1
+data/enemysprite1.png
+405 351 438 385
+
+bullet_enemy1.2
+data/enemysprite1.png
+449 356 474 381
+
+bullet_enemy1.3
+data/enemysprite1.png
+484 354 513 383
+
+bullet_enemy2.1
+data/enemy6.png
+198 925 225 965
+
+bullet_enemy2.2
+data/enemy6.png
+221 925 248 965
+
+bullet_enemy2.3
+data/enemy6.png
+45 875 78 920
+
+laze1
+data/enemy6.png
+555 985 610 1010
+
+laze2
+data/enemy6.png
+555 1037 610 1098
+
+laze3
+data/enemy6.png
+555 1106 610 1153
+
+laze4
+data/enemy6.png
+555 1169 610 1221
+
+bullet_enemy3.1
+data/enemy6.png
+2015 1480 2040 1515
+
+bullet_enemy3.2
+data/enemy6.png
+2040 1480 2070 1515
+
+bullet_enemy3.3
+data/enemy6.png
+2070 1480 2105 1515
+
+bullet_enemy3.4
+data/enemy6.png
+2110 1480 2150 1515
+
+bullet_enemy3.5
+data/enemy6.png
+2157 1480 2197 1515
+
+bullet_enemy3.6
+data/enemy6.png
+2201 1480 2241 1515
+
+bullet_enemy3.7
+data/enemy6.png
+2245 1480 2280 1515
+
+bullet_enemy3.8
+data/enemy6.png
+2280 1480 2310 1515
+
+explosion1.1
+data/enemy6.png
+770 400 850 450
+
+explosion1.2
+data/enemy6.png
+880 400 960 450
+
+explosion1.3
+data/enemy6.png
+990 400 1070 450
+
+explosion1.4
+data/enemy6.png
+880 400 960 450
+
+explosion1.5
+data/enemy6.png
+770 400 850 450
+
+enemy3.1
+data/enemy6.png
+1815 95 1945 165
+
+enemy3.2
+data/enemy6.png
+1980 95 2075 165
+
+enemy3.3
+data/enemy6.png
+2100 95 2200 165
+
+enemy3.4
+data/enemy6.png
+2110 95 2190 165
+
+enemy4.1
+data/enemy6.png
+1815 345 1945 400
+
+enemy4.2
+data/enemy6.png
+1980 345 2075 400
+
+enemy4.3
+data/enemy6.png
+2100 345 2200 400
+
+enemy4.4
+data/enemy6.png
+2110 345 2190 400
+
+enemy5.1
+data/enemy6.png
+1995 645 2095 745
+
+enemy5.2
+data/enemy6.png
+2095 645 2192 745
+
+enemy5.3
+data/enemy6.png
+2192 645 2292 745
+
+enemy6.1
+data/enemy6.png
+1245 60 1330 140
+
+enemy6.2
+data/enemy6.png
+1330 60 1410 140
+
+enemy6.3
+data/enemy6.png
+1415 60 1495 140
+
+enemy6.4
+data/enemy6.png
+1244 165 1330 240
+
+enemy6.5
+data/enemy6.png
+1330 165 1416 240
+
+enemy6.6
+data/enemy6.png
+1416 165 1502 240
+
+enemy6.7
+data/enemy6.png
+1501 165 1588 240
+
+enemy6.8
+data/enemy6.png
+1588 165 1674 240
+
+enemy6.9
+data/enemy6.png
+1674 165 1760 240
+
+enemy6.10
+data/enemy6.png
+1255 260 1340 340
+
+enemy6.11
+data/enemy6.png
+1245 350 1355 430
+
+enemy6.12
+data/enemy6.png
+1465 350 1575 430
+
+enemy6.13
+data/enemy6.png
+1695 350 1800 430
+
+enemy6.14
+data/enemy6.png
+1270 435 1365 515
+
+enemy6.15
+data/enemy6.png
+1390 435 1490 515
+
+enemy6.16
+data/enemy6.png
+1520 435 1620 515
+
+enemy6.17
+data/enemy6.png
+1255 560 1360 645
+
+enemy6.18
+data/enemy6.png
+1390 560 1490 645
+
+enemy6.19
+data/enemy6.png
+1520 560 1625 645
+
+enemy6.20
+data/enemy6.png
+1635 560 1755 645
+
+tialaze1
+data/enemy6.png
+895 1810 915 2135
+
+tialaze2
+data/enemy6.png
+837 1810 857 2135
+
+tialaze3
+data/enemy6.png
+962 1810 982 2135
+
+tialaze4
+data/enemy6.png
+995 1810 1115 2135
+
+darkraise1
+data/enemysprite1.png
+2 670 129 750
+
+darkraise2
+data/enemysprite1.png
+134 675 255 755
+
+darkraise3
+data/enemysprite1.png
+265 681 375 761
+
+tiled1
+data/tiled.png
+60 81 90 111
+
+tiled2
+data/tiled.png
+60 118 90 148
+
+trap1
+data/enemy6.png
+920 2145 950 2190
+
+trap2
+data/enemy6.png
+957 2145 987 2190
+
+trap3
+data/enemy6.png
+850 2195 880 2240
+
+trap4
+data/enemy6.png
+885 2195 915 2240
+
+trap5
+data/enemy6.png
+921 2195 951 2240
+
+robot1
+data/enemy6.png
+1095 2000 1205 2085
+
+robot2
+data/enemy6.png
+1220 2000 1330 2085
+
+boss1idleattack1
+data/enemy6.png
+1430 1750 1550 1875
+
+boss1idleattack2
+data/enemy6.png
+1564 1750 1684 1875
+
+boss1idleattack3
+data/enemy6.png
+1704 1750 1824 1875
+
+boss1idleattack4
+data/enemy6.png
+1850 1750 1970 1875
+
+boss1idleattack5
+data/enemy6.png
+1986 1750 2106 1875
+
+boss1idleattack6
+data/enemy6.png
+2117 1750 2237 1875
+
+boss1idleattack7
+data/enemy6.png
+2253 1750 2373 1875
+
+boss1jump1
+data/enemy6.png
+1433 2040 1550 2167
+
+boss1jump2
+data/enemy6.png
+1570 2035 1687 2160
+
+boss1change1
+data/enemy6.png
+1695 2190 1813 2310
+
+boss1change2
+data/enemy6.png
+1835 2190 1955 2310
+
+boss1change3
+data/enemy6.png
+1975 2190 2095 2310
+
+boss1change4
+data/enemy6.png
+2115 2190 2232 2310
+
+boss1change5
+data/enemy6.png
+2253 2190 2371 2310
+
+boss1change6
+data/enemy6.png
+1422 2330 1540 2450
+
+boss1change7
+data/enemy6.png
+1570 2330 1678 2450
+
+boss1change8
+data/enemy6.png
+1722 2330 1840 2450
+
+boss1change9
+data/enemy6.png
+1859 2330 1976 2450
+
+boss1change10
+data/enemy6.png
+1992 2330 2110 2450
+
+boss1change11
+data/enemy6.png
+2133 2330 2253 2450
+
+boss1change12
+data/enemy6.png
+2265 2330 2384 2450
+
+boss1car1
+data/enemy6.png
+2265 2330 2384 2450
+
+bulletrobot1
+data/enemy6.png
+2013 1435 2053 1450
+
+bulletrobot2
+data/enemy6.png
+2055 1435 2095 1450
+
+bullet_kameha1_right
+data/megaman4.png
+90 230 290 305
+
+bullet_kameha2_right
+data/megaman4.png
+90 150 380 225
+
+bullet_kameha3_right
+data/megaman4.png
+90 71 405 146
+
+bullet_kameha4_right
+data/megaman4.png
+90 313 610 388
+
+bullet_kameha5_right
+data/megaman4.png
+90 386 610 461
+
+bullet_kameha1_left
+data/megaman4.png
+953 230 1153 305
+
+bullet_kameha2_left
+data/megaman4.png
+905 150 1195 225
+
+bullet_kameha3_left
+data/megaman4.png
+834 71 1149 146
+
+bullet_kameha4_left
+data/megaman4.png
+631 313 1151 388
+
+bullet_kameha5_left
+data/megaman4.png
+631 386 1151 416
+
+bullet1.1_boss1
+data/enemy6.png
+403 825 433 860
+
+bullet1.2_boss1
+data/enemy6.png
+433 825 466 860
+
+bullet1.3_boss1
+data/enemy6.png
+466 825 499 860
+
+bullet1.4_boss1
+data/enemy6.png
+499 825 529 860
+
+bullet1.5_boss1
+data/enemy6.png
+529 825 560 860
+
+bullet1.6_boss1
+data/enemy6.png
+560 825 593 860
+
+bullet1.7_boss1
+data/enemy6.png
+593 825 626 860
+
+bullet1.8_boss1
+data/enemy6.png
+626 825 658 860
+
+bullet2.1_boss1
+data/enemy6.png
+403 860 433 890
+
+bullet2.2_boss1
+data/enemy6.png
+433 860 466 890
+
+bullet2.3_boss1
+data/enemy6.png
+466 860 499 890
+
+bullet2.4_boss1
+data/enemy6.png
+499 860 529 890
+
+bullet2.5_boss1
+data/enemy6.png
+529 860 560 890
+
+bullet2.6_boss1
+data/enemy6.png
+560 860 593 890
+
+bullet2.7_boss1
+data/enemy6.png
+593 860 626 890
+
+bullet2.8_boss1
+data/enemy6.png
+626 860 658 890
+
+bullet3.1_boss1
+data/enemy6.png
+403 900 433 930
+
+bullet3.2_boss1
+data/enemy6.png
+433 900 466 930
+
+bullet3.3_boss1
+data/enemy6.png
+466 900 499 930
+
+bullet3.4_boss1
+data/enemy6.png
+499 900 529 930
+
+bullet4.1_boss1
+data/enemy6.png
+529 900 560 930
+
+bullet4.2_boss1
+data/enemy6.png
+560 900 593 930
+
+bullet4.3_boss1
+data/enemy6.png
+593 900 626 930
+
+bullet4.4_boss1
+data/enemy6.png
+626 900 658 930
+
+bullet5.1_boss1
+data/enemy6.png
+403 932 433 962
+
+bullet5.2_boss1
+data/enemy6.png
+433 932 466 962
+
+bullet5.3_boss1
+data/enemy6.png
+466 932 499 962
+
+bullet5.4_boss1
+data/enemy6.png
+499 932 529 962
+
+bullet6.1_boss1
+data/enemy6.png
+529 932 560 962
+
+bullet6.2_boss1
+data/enemy6.png
+560 932 593 962
+
+bullet6.3_boss1
+data/enemy6.png
+593 932 626 962
+
+bullet6.4_boss1
+data/enemy6.png
+626 932 658 962

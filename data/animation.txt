@@ -1,0 +1,139 @@
+46
+
+idle
+idle1 150000000 idle2 150000000 idle3 300000000
+
+idleshoot
+idleshoot1 500000000 idleshoot1 70000000
+
+run
+run1 100000000 run2 100000000 run3 100000000 run4 100000000 run5 100000000 run6 100000000 run7 100000000
+
+runshoot
+runshoot1 100000000 runshoot2 100000000 runshoot3 100000000 runshoot4 100000000 runshoot5 100000000 runshoot6 100000000
+
+jump
+jump1 30000000 jump2 10000000 jump3 30000000 jump4 30000000 jump5 30000000 jump6 70000000 jump7 70000000
+
+jumpshoot
+jumpshoot1 70000000 jumpshoot2 70000000 jumpshoot3 70000000 jumpshoot4 70000000 jumpshoot5 70000000 jumpshoot6 70000000
+
+bulletmegaman
+bullet1.1 30000000 bullet1.2 30000000 bullet1.3 30000000 bullet1.4 30000000 bullet1.5 30000000
+
+hurting
+hurting1 70000000 hurting2 70000000 hurting1 70000000 hurting2 70000000 hurting1 70000000 hurting2 70000000
+
+bird
+bird1 200000000 bird2 200000000
+
+birdshoot
+birdshoot1 200000000 birdshoot2 200000000
+
+idlechem
+idlechem1 20000000 idlechem2 30000000 idlechem3 70000000 idlechem4 160000000 idlechem5 70000000
+
+jumpchem
+jumpchem1 20000000 jumpchem2 30000000 jumpchem3 70000000 jumpchem4 160000000 jumpchem5 70000000
+
+enemy1
+enemy1.1 90000000 enemy1.2 90000000 enemy1.3 90000000 enemy1.4 90000000 enemy1.5 90000000
+
+enemy2
+enemy2.1 90000000 enemy2.2 90000000 enemy2.3 90000000
+
+explosion1
+explosion1.1 70000000 explosion1.2 70000000 explosion1.3 70000000 explosion1.4 70000000 explosion1.5 70000000 explosion1.6 70000000 explosion1.7 70000000 explosion1.8 70000000 explosion1.9 70000000 explosion1.10 70000000
+
+explosion2
+explosion2.1 70000000 explosion2.2 70000000 explosion2.3 70000000 explosion2.4 70000000 explosion2.5 70000000 explosion2.6 70000000 explosion2.7 70000000 explosion2.8 70000000 explosion2.9 70000000 explosion2.10 70000000
+
+explosion3
+explosion3.1 70000000 explosion3.2 70000000 explosion3.3 70000000 explosion3.4 70000000 explosion3.5 70000000 explosion3.6 70000000 explosion3.7 70000000
+
+bullet_enemy1
+bullet_enemy1.1 30000000 bullet_enemy1.2 30000000 bullet_enemy1.3 30000000
+
+bullet_enemy2
+bullet_enemy2.1 50000000 bullet_enemy2.2 70000000 bullet_enemy2.3 90000000
+
+bullet_enemy3
+bullet_enemy3.1 50000000 bullet_enemy3.2 50000000 bullet_enemy3.3 50000000 bullet_enemy3.4 50000000 bullet_enemy3.5 50000000 bullet_enemy3.6 50000000 bullet_enemy3.7 50000000 bullet_enemy3.8 50000000
+
+explosion
+explosion1.1 50000000 explosion1.2 50000000 explosion1.3 50000000 explosion1.4 50000000 explosion1.5 50000000
+
+enemy3
+enemy3.1 120000000 enemy3.2 150000000 enemy3.3 180000000 enemy3.4 140000000
+
+enemy4
+enemy4.1 120000000 enemy4.2 150000000 enemy4.3 180000000 enemy4.4 140000000
+
+enemy5
+enemy5.1 70000000 enemy5.2 70000000 enemy5.3 70000000
+
+enemy6_behurt
+enemy6.10 70000000 enemy6.10 70000000 enemy6.10 70000000 enemy6.10 70000000 enemy6.10 70000000 enemy6.10 70000000
+
+enemy6_idle
+enemy6.1 150000000 enemy6.2 150000000 enemy6.3 150000000
+
+enemy6_run
+enemy6.4 90000000 enemy6.5 90000000 enemy6.6 90000000 enemy6.7 90000000 enemy6.8 90000000 enemy6.9 90000000
+
+enemy6_attack
+enemy6.11 30000000 enemy6.12 30000000 enemy6.13 30000000 enemy6.14 90000000 enemy6.15 60000000 enemy6.16 90000000 enemy6.17 70000000 enemy6.18 90000000 enemy6.19 90000000 enemy6.20 90000000
+
+laze
+laze1 140000000 laze2 180000000 laze4 180000000 laze3 700000000
+
+tialaze
+tialaze1 30000000 tialaze3 50000000
+
+darkraise
+darkraise1 120000000 darkraise2 120000000 darkraise3 120000000 darkraise2 120000000
+
+trap
+trap1 90000000 trap2 90000000 trap3 90000000 trap4 90000000 trap5 90000000
+
+boss1idleattack
+boss1idleattack1 120000000 boss1idleattack2 120000000 boss1idleattack3 120000000 boss1idleattack4 120000000 boss1idleattack5 120000000 boss1idleattack6 120000000 boss1idleattack7 120000000
+
+boss1jump
+boss1jump1 120000000 boss1jump2 120000000
+
+boss1change
+boss1change1 120000000 boss1change2 120000000 boss1change3 120000000 boss1change4 120000000 boss1change5 120000000 boss1change6 120000000 boss1change7 120000000 boss1change8 120000000 boss1change9 120000000 boss1change10 120000000 boss1change11 120000000 boss1change12 120000000
+
+boss1car
+boss1change12 100000000
+
+robot
+robot1 90000000 robot2 90000000
+
+bulletrobot
+bulletrobot1 90000000 bulletrobot2 90000000
+
+bullet_kameha_right
+bullet_kameha1_right 40000000 bullet_kameha2_right 40000000 bullet_kameha3_right 40000000 bullet_kameha4_right 40000000 bullet_kameha5_right 40000000
+
+bullet_kameha_left
+bullet_kameha1_left 40000000 bullet_kameha2_left 40000000 bullet_kameha3_left 40000000 bullet_kameha4_left 40000000 bullet_kameha5_left 40000000
+
+bullet1_boss1
+bullet1.1_boss1 40000000 bullet1.2_boss1 40000000 bullet1.3_boss1 40000000 bullet1.4_boss1 40000000 bullet1.5_boss1 40000000 bullet1.6_boss1 40000000 bullet1.7_boss1 40000000 bullet1.8_boss1 40000000
+
+bullet2_boss1
+bullet2.1_boss1 40000000 bullet2.2_boss1 40000000 bullet2.3_boss1 40000000 bullet2.4_boss1 40000000 bullet2.5_boss1 40000000 bullet2.6_boss1 40000000 bullet2.7_boss1 40000000 bullet2.8_boss1 40000000
+
+bullet3_boss1
+bullet3.1_boss1 40000000 bullet3.2_boss1 40000000 bullet3.3_boss1 40000000 bullet3.4_boss1 40000000
+
+bullet4_boss1
+bullet4.1_boss1 40000000 bullet4.2_boss1 40000000 bullet4.3_boss1 40000000 bullet4.4_boss1 40000000
+
+bullet5_boss1
+bullet5.1_boss1 40000000 bullet5.2_boss1 40000000 bullet5.3_boss1 40000000 bullet5.4_boss1 40000000
+
+bullet6_boss1
+bullet6.1_boss1 40000000 bullet6.2_boss1 40000000 bullet6.3_boss1 40000000 bullet6.4_boss1 40000000

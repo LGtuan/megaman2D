@@ -1,0 +1,5 @@
+3
+
+megamanhurt data/megamanhurt.wav
+bluefireshooting data/bluefireshooting.wav
+bgmusic data/bgmusic.wav
